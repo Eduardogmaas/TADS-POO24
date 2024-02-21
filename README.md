@@ -6,7 +6,7 @@
 
 # Curso
 
-* TADS 2 anos 2024
+* TADS 2º ano 2024
 
 # Disciplina
 
